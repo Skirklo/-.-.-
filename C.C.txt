@@ -1,0 +1,1 @@
+vless://3c14ecf0-9f6f-49c5-b938-0e952ad4a440@51.250.28.229:4379?security=reality&encryption=none&pbk=IoqdElDP9GWy1X-oJ_dn2mKlOGh7texrBsYyVY5Jf1Q&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=app.perekrestok.ru#%F0%9F%87%AB%F0%9F%87%AE+Finland+%7C+%F0%9F%8C%90+%7C+%5BIPv6%5D+%5B*CIDR%5D+YA
