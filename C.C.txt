@@ -1,2 +1,2 @@
 trojan://5533366999@lenь:443?security=reality&headerType=none&allowinsecure=0&type=tcp#%F0%9F%87%AF%F0%9F%87%B5+ Временно недоступно 🚩 
-
+vless://119a2ebd-a026-4647-a22b-cc02bdb74f45@51.250.108.107:443?security=reality&encryption=none&pbk=kKiat1UsRVMj7F5APS8MMMDbwFE6fUI5maS3oMsrTgI&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=27e53bbcab7593d7#%F0%9F%87%B3%F0%9F%87%B1+📶 
